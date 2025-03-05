@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{43D4EA60-B6FE-47A5-83A6-CCF18EB1F37F}|Default">
-  <MonoDevelop.Ide.ItemProperties.TappApp FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TappApp/wwwroot/css/tailwind.css">
+    <Files>
+      <File FileName="TappApp/Program.cs" Line="29" Column="1" />
+      <File FileName="TappApp/wwwroot/css/style.css" Line="1" Column="1" />
+      <File FileName="TappApp/wwwroot/css/tailwind.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TappApp">
+            <Node name="TappApp">
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TappApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
